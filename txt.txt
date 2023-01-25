@@ -1,0 +1,8 @@
+Temperature Converter Website
+
+You can make a simple yet attractive temperature converter website using HTML, CSS, and JavaScript as a next step.
+
+It will involve validation of the user input, using the dropdown menu to know if the input is celsius or Fahrenheit. we can add more functionality to it.
+
+
+Skills Required – Input Validation, Form designing, HTML, CSS, JavaScript.
